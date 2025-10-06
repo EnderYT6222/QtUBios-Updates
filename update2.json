@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "meta": {"name":"QtUbios-Official-v1","created":"2025-10-06T00:00:00"},
+    "sim":{"CPU_cores":1,"RAM_mb":512,"GPU_gb":1,"Storage_gb":1},
+    "drivers":{"cpu_driver":{"version":"1.2","loaded":true,"default":true}},
+    "theme":"neon",
+    "features":{"fast_boot":true},
+    "startup_script":["INFO","WAIT 0.5","BACKUP"]
+  },
+  "signature": "PUT_SHA256_OF_PROFILE_BYTES_HERE"
+}
