@@ -1,11 +1,11 @@
 {
-  "profile": {
-    "meta": {"name":"QtUbios-Official-v1","created":"2025-10-06T00:00:00"},
-    "sim":{"CPU_cores":1,"RAM_mb":512,"GPU_gb":1,"Storage_gb":1},
-    "drivers":{"cpu_driver":{"version":"1.2","loaded":true,"default":true}},
-    "theme":"neon",
-    "features":{"fast_boot":true},
-    "startup_script":["INFO","WAIT 0.5","BACKUP"]
+  "profile": { 
+      "meta":{"name":"QtUbios-Official-v1","created":"2025-10-06T00:00:00"},
+      "sim":{"CPU_cores":1,"RAM_mb":512,"GPU_gb":1,"Storage_gb":1},
+      "drivers":{"cpu_driver":{"version":"1.2","loaded":true,"default":true}},
+      "theme":"neon",
+      "features":{"fast_boot":true},
+      "startup_script":["INFO","WAIT 0.5","BACKUP"]
   },
-  "signature": d2f5a6b3e7c1a9f54f0e5d8c2a1b9c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0"
+  "signature": "d2f5a6b3e7c1a9f54f0e5d8c2a1b9c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0"
 }
